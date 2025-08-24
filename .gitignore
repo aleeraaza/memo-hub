@@ -1,0 +1,12 @@
+# Backend ignores
+memo-backend/node_modules/
+memo-backend/dist/
+memo-backend/.env
+
+# Frontend ignores (when you create it)
+memo-frontend/node_modules/
+memo-frontend/.next/
+memo-frontend/.env
+
+# General
+.DS_Store
